@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="user">Приветствую, повелитель %1$s %2$s!</string>
+    <string name="date">Ваша дата рождения %1$S</string>
+    <string name="application">Hi</string>
+    </resources>
